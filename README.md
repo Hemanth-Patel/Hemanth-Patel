@@ -5,11 +5,11 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently interning at **Drobot Inc.** working on gesture-controlled robotics
+- 🔭 I’m currently interning at **Drobot Inc.** working on voice-controlled robotics
 - 📚 Research Intern @ **IISc Bangalore** | PINNs for solving PDEs in robotics
 - 🧠 Passionate about **AI**, **Robotics**, **LLMs**, and **Computer Vision**
 - 💬 Ask me about robotics, RL, or how I broke my robot again 😄
-- 📫 How to reach me: `hemanthpatel1242003@gmail.com`
+- 📫 How to reach me: `hemanth.patel.mec21@iitbhu.ac.in`
 - ⚡ Fun fact: I was part of **2× Flipkart Grid Finals** in robotics!
 
 ---
